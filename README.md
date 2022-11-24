@@ -38,7 +38,7 @@ alt="Imagem dos navegadores e versões suportadas"/>
 Imagem da aplicação
 
 <img
-src=""
+src="https://github.com/Ciro-TI-System/GalleryCSS/blob/main/assets/CSS%20Gallery.jpg"
 alt="Imagem da aplicação"/>
 
 ## :memo: Licença
